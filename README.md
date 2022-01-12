@@ -14,4 +14,4 @@ git clone https://github.com/Genzi33/genzi66.git
 
 cd bmbf
 
-python publik.py
+python BMBcil.py
