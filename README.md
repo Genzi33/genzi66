@@ -12,6 +12,6 @@ pip install bs4
 
 git clone https://github.com/Genzi33/genzi66.git
 
-cd bmbf
+cd genzi66
 
 python BMBcil.py
