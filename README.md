@@ -10,10 +10,8 @@ pip install requests
 
 pip install futures
 
-pip install bs4
-
 git clone https://github.com/Genzi33/genzi66.git
 
 cd genzi66
 
-python BMBFcil.py
+python publik.py
